@@ -1,0 +1,12 @@
+1.User
+--------
+    (
+    UserID int primar key autoincrement,
+    username text,
+    useremail text,
+    usermob text,
+    useraddress text,
+    userpass text,
+    usertotalpurchase float,
+    UserOpenDate text
+    )
